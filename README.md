@@ -1,3 +1,1 @@
-# primeiro_projeto
-
-Primeiro projeto 
+Primeiro projeto do minicurso de Git e github
